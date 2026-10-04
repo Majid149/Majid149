@@ -83,4 +83,4 @@ Arabic (native) · French (fluent) · English (professional)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ahmedmajid149@gmail.com)
 
-Happy to talk about data engineering, ERP data, or relocation to Europe. Messages from fellow career-changers are welcome too.
+Happy to talk about data engineering, ERP data. Messages from fellow career-changers are welcome too.
