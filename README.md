@@ -2,7 +2,7 @@
 
 **Software engineer becoming a data engineer.** Four years building and integrating ERP data systems (Odoo / Python / PostgreSQL), now applying that experience to modern data engineering: pipelines, data modeling, Spark and the Databricks Lakehouse.
 
-📍 Casablanca, Morocco · 🌍 Open to relocation (Netherlands, EU, Canada)
+📍 Casablanca, Morocco · 
 
 ---
 
